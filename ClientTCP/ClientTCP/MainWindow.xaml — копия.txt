@@ -1,0 +1,114 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+using System.Windows;
+using System.Windows.Controls;
+using static System.Net.WebRequestMethods;
+
+namespace ClientTCP
+{
+    /// <summary>
+    /// Логика взаимодействия для MainWindow.xaml
+    /// </summary>
+
+    public partial class MainWindow : Window
+    {
+        private Socket client;
+        private bool _list_received = false;
+        //private List<FilesInfo> _listFiles = new List<FilesInfo>(0);
+        private bool error = false;
+        
+        public MainWindow()
+        {
+            InitializeComponent();
+            try
+            {
+                client = NetTCP.Connection();
+                LabelLink.Content = ("Сокет соединяется с {0} ", client.RemoteEndPoint.ToString());
+            }
+            catch
+            {
+                LabelLink.Content = "-Ошибка подключения к серверу-";
+                buttonGetListFiles.IsEnabled = false;
+            }
+        }
+
+        private void buttonGetListFiles_Click(object sender, RoutedEventArgs e)
+        {
+            buttonGetListFiles.IsEnabled = false;
+
+            List<FilesInfo> listFiles = Singleton.GetInstance().RequestDirectory("");
+            for (int i = 1; i < listFiles.Count; i++) // с [1], так как [0] - путь клиента
+                ListFiles.Items.Add(listFiles[i].Name);
+
+            listFiles[0].Name; //нужно добавлять путь к [0]  и имя выбранной папки
+            //listFiles[ListFiles.SelectedIndex+1].Name;
+            listFile = Singleton.GetInstance().RequestDirectory("");
+            for (int i = 1; i < listFile.Count; i++) // с [1], так как [0] - путь клиента
+                ListFiles.Items.Add(listFile[i].Name);
+
+
+
+            //
+            try
+            {
+                buttonGetListFiles.IsEnabled = false;
+                if (!_list_received)
+                {
+                    NetTCP.SendMessage("GetFiles");
+                    string answer = Encoding.UTF8.GetString(NetTCP.GetMessage());
+                    if (answer == "error")
+                    {
+                        error = true;
+                        throw new Exception();
+                    }
+                    string[] Files = answer.Split('\n');
+                    if (client.Connected)
+                        throw new Exception();
+                    for (int i = 0; i < Files.Length; i++)
+                    {
+                        _listFiles.Add(new FilesInfo(Files[i]));
+                        ListFiles.Items.Add(_listFiles[i].Name);
+                    }
+                    _list_received = true;
+
+                }
+                else
+                {
+                    NetTCP.SendMessage(_listFiles[ListFiles.SelectedIndex].Name);
+                    byte[] msg = NetTCP.GetMessage();
+                    if (Encoding.UTF8.GetString(msg) != "error")
+                    {
+                        File.WriteAllBytes(_listFiles[ListFiles.SelectedIndex].Name, msg);
+                    }
+                    else
+                    {
+                        error = true;
+                        throw new Exception();
+                    }
+                }
+            }
+            catch
+            {
+                if (!error)
+                {
+                    LabelLink.Content = "Ошибка при получении файла";
+                }
+                else
+                {
+                    LabelLink.Content = "Сервер завершил работу";
+                    buttonGetListFiles.IsEnabled = false;
+                    ListFiles.Items.Clear();
+                }
+            }
+        }
+
+        private void ListFiles_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            buttonGetListFiles.IsEnabled = true;
+        }
+    }
+}

@@ -1,0 +1,105 @@
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+C:\Users\user\Desktop\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+C:\Users\arefe\Desktop\TIMPLab2\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+C:\Code\Методы программирования\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+F:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+E:\lab 4\console\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+C:\Users\user\Desktop\LastVersion\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.AssemblyReference.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll

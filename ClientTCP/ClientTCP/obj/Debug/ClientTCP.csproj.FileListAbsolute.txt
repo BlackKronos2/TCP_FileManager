@@ -1,0 +1,96 @@
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\MainWindow.g.cs
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\App.g.cs
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.cache
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.lref
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\MainWindow.baml
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.g.resources
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Code\Методы программирования\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+F:\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+F:\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+F:\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\MainWindow.g.cs
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\App.g.cs
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.cache
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.lref
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\MainWindow.baml
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.g.resources
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+F:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+E:\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+E:\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+E:\lab 4\WPF\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\MainWindow.g.cs
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\App.g.cs
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.cache
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.lref
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\MainWindow.baml
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.g.resources
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+E:\lab 4\WPF\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\MainWindow.g.cs
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\App.g.cs
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.cache
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.lref
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\MainWindow.baml
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.g.resources
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+F:\lab 4\LastVersion\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+E:\TIMPLab\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+E:\TIMPLab\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+E:\TIMPLab\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\MainWindow.g.cs
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\App.g.cs
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.cache
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.lref
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\MainWindow.baml
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.g.resources
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+E:\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\MainWindow.g.cs
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\App.g.cs
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP_MarkupCompile.lref
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\MainWindow.baml
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.g.resources
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.Properties.Resources.resources
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.GenerateResource.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
