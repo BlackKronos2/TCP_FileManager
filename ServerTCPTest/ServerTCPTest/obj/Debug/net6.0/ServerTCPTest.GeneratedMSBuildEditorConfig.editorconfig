@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServerTCPTest
-build_property.ProjectDir = C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\
+build_property.ProjectDir = C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\

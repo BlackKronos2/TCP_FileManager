@@ -4,10 +4,19 @@ using System.Net.Sockets;
 
 class Program
 {
-    public static TCPServer server = new TCPServer();
-
     static void Main(string[] args)
     {
-        server.ServerStart();
+		Console.WriteLine("Введите IP-адрес для сервера: ");
+		string input = Console.ReadLine();
+		TCPServer server;
+
+		try
+		{
+			server = new TCPServer(input);
+		}
+		catch(Exception ex)
+		{
+			Console.WriteLine(ex.Message);
+		}
     }
 }

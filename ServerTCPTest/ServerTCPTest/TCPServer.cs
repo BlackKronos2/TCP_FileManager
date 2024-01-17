@@ -1,25 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Sockets;
+﻿using System.Net.Sockets;
 using System.Net;
 using System.Text;
-using System.Threading.Tasks;
-using System.Net.Http;
-using System.Reflection;
-using System.Data;
-using System.Threading;
-using System.Net.Http.Headers;
 
 namespace ServerTCPTest
 {
-    public class TCPServer 
+	public class TCPServer 
     {
         const string ServerDirectoryPath = "ServerDirectory";
         public static readonly string[] CommadsList = { "GetContent", "GetFile" };
 
         private List<Timer> _activeTimers = new List<Timer>(0);
-        const int timerUser = 20;
+        private const int TimerUser = 200;
+
+        private string _ipAddress = "127.0.0.1";
+
+        public TCPServer(string ipAddress)
+        { 
+            _ipAddress = ipAddress;
+
+            if (!IPAddress.TryParse(ipAddress, out IPAddress ipAddressOut))
+                throw new Exception("Адрес некорректный");
+
+            ServerStart();
+		}
 
         private string GetClientCommand(Socket tcpClient)
         {
@@ -79,7 +82,7 @@ namespace ServerTCPTest
         {
             Console.WriteLine("Подключение успешно");
 
-            int Id = RunActionAfter(() => ClientShutDown(tcpClient), timerUser * 1000);
+            int Id = RunActionAfter(() => ClientShutDown(tcpClient), TimerUser * 1000);
 
             byte[] bytes = new byte[1024];
 
@@ -123,8 +126,7 @@ namespace ServerTCPTest
         {
             // Устанавливаем для сокета локальную конечную точку
             IPHostEntry ipHost = Dns.GetHostEntry("localhost");
-            //IPAddress ipAddr = ipHost.AddressList[0];
-            IPAddress ipAddr = IPAddress.Parse("127.0.0.1");
+            IPAddress ipAddr = IPAddress.Parse(_ipAddress);
             IPEndPoint ipEndPoint = new IPEndPoint(ipAddr, 58000);
 
             // Создаем сокет Tcp/Ip

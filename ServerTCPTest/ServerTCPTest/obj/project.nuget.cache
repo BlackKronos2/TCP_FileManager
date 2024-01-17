@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNwiIpFMzBlBUwy0VhDz4BjGb5pCtBpY3Zyug0NHXhWMTQm6kM2praBMBRJ4RK1zNWH7kMrMe972eR3hGlGVUQ==",
+  "dgSpecHash": "9burMUEVek+Ikf6zejjz9YAo2quT7pHpM8vh0eDcIn/IGie66PhwjTztCUnhY1mrhNoSXLUFxTMZOlZkb3E8MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arefe\\Desktop\\Лаб2\\TIMPLab\\ServerTCPTest\\ServerTCPTest\\ServerTCPTest.csproj",
+  "projectFilePath": "C:\\Users\\Kirill\\Desktop\\TCP_FileManager\\ServerTCPTest\\ServerTCPTest\\ServerTCPTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

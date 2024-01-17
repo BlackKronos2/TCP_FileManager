@@ -1,0 +1,16 @@
+﻿<Window x:Class="ClientTCP.ConnectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientTCP"
+        mc:Ignorable="d"
+        Title="Подключение" Height="184" Width="356"
+		ResizeMode="NoResize">
+	<Grid>
+		<Button Content="Подключение" HorizontalAlignment="Center" Margin="0,105,0,0" VerticalAlignment="Top" Width="138" Height="36" Command="{Binding ConnectCommand}"/>
+		<TextBox HorizontalAlignment="Left" Margin="121,48,0,0" TextWrapping="Wrap" Text="{Binding IpAddress, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="149"/>
+		<Label Content="IP-адрес:" HorizontalAlignment="Left" Margin="57,44,0,0" VerticalAlignment="Top"/>
+
+	</Grid>
+</Window>

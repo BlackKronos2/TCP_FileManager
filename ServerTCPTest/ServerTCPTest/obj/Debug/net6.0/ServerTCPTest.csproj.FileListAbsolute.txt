@@ -103,3 +103,17 @@ C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net
 C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
 C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
 C:\Users\arefe\Desktop\Лаб2\TIMPLab\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.exe
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.deps.json
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.runtimeconfig.json
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.dll
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\bin\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.dll
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\refint\ServerTCPTest.dll
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.pdb
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ServerTCPTest.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\TCP_FileManager\ServerTCPTest\ServerTCPTest\obj\Debug\net6.0\ref\ServerTCPTest.dll

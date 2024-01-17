@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\arefe\\.nuget\\packages\\": {},
+    "C:\\Users\\Kirill\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arefe\\Desktop\\Лаб2\\TIMPLab\\ServerTCPTest\\ServerTCPTest\\ServerTCPTest.csproj",
+      "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\TCP_FileManager\\ServerTCPTest\\ServerTCPTest\\ServerTCPTest.csproj",
       "projectName": "ServerTCPTest",
-      "projectPath": "C:\\Users\\arefe\\Desktop\\Лаб2\\TIMPLab\\ServerTCPTest\\ServerTCPTest\\ServerTCPTest.csproj",
-      "packagesPath": "C:\\Users\\arefe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arefe\\Desktop\\Лаб2\\TIMPLab\\ServerTCPTest\\ServerTCPTest\\obj\\",
+      "projectPath": "C:\\Users\\Kirill\\Desktop\\TCP_FileManager\\ServerTCPTest\\ServerTCPTest\\ServerTCPTest.csproj",
+      "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kirill\\Desktop\\TCP_FileManager\\ServerTCPTest\\ServerTCPTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\arefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

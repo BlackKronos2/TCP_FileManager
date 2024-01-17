@@ -11,9 +11,9 @@ namespace ClientTCP
     public static class NetTCP
     {
         private static Socket client;
-        public static Socket Connection()
+        public static Socket Connection(string ipAddress)
         {
-            IPAddress ipAddr = IPAddress.Parse("127.0.0.1");
+            IPAddress ipAddr = IPAddress.Parse(ipAddress);
             IPEndPoint ipEndPoint = new IPEndPoint(ipAddr, 58000);
             client = new Socket(ipAddr.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             client.Connect(ipEndPoint);

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\obj\Debug\
+C:\Users\Kirill\Desktop\TCP_FileManager\ClientTCP\ClientTCP\obj\Debug\
 ClientTCP
 none
 false
 DEBUG;TRACE
-C:\Users\arefe\Desktop\Лаб2\TIMPLab\ClientTCP\ClientTCP\App.xaml
-1219584333
+C:\Users\Kirill\Desktop\TCP_FileManager\ClientTCP\ClientTCP\App.xaml
+21990115681
 
-9-259624179
+13-674452605
 13-1310406943
-MainWindow.xaml;
+View\ConnectWindow.xaml;View\MainWindow.xaml;
 
 True
 

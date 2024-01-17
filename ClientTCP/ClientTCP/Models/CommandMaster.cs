@@ -2,11 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Net;
 using System.Net.Sockets;
-using System.Windows;
-using System.Windows.Controls;
 
 namespace ClientTCP
 {
@@ -16,8 +12,14 @@ namespace ClientTCP
         private bool _list_received = false;
         private string _userPath;
 
+        private string _ipAddress;
+
+        public string UserPath => _userPath;
+
         private CommandMaster()
-        { }
+        {
+            _ipAddress = "";
+		}
 
         public static CommandMaster GetInstance()
         {
@@ -26,28 +28,19 @@ namespace ClientTCP
             return _instance;
         }
 
-        public string Start(Button buttonGetListFiles)
+        public void Start(string ipAddress)
         {
-            Socket client;
-            try
-            {
-                client = NetTCP.Connection();
-                return "Сокет соединен с {0} " + client.RemoteEndPoint.ToString();
-            }
-            catch
-            {
-                buttonGetListFiles.IsEnabled = false;
-                return "-Ошибка подключения к серверу-";
-            }
+            Socket client = NetTCP.Connection(ipAddress);
+            _ipAddress = ipAddress;
         }
 
         public List<string> RequestDirectory(string elementPath)
         {
-            if (!NetTCP.Connection().Connected)
+            if (!NetTCP.Connection(_ipAddress).Connected)
                 throw new Exception("Сервер отключился");
 
             if (!_list_received)
-                NetTCP.SendMessage("GetContent"); //GetContent + ""
+                NetTCP.SendMessage("GetContent"); 
             else
                 NetTCP.SendMessage($"GetContent{elementPath}");
 
@@ -72,7 +65,7 @@ namespace ClientTCP
 
         public void RequestFile(string elementPath)
         {
-            if (!NetTCP.Connection().Connected)
+            if (!NetTCP.Connection(_ipAddress).Connected)
                 throw new Exception("Сервер отключился");
 
             NetTCP.SendMessage($"GetFile{elementPath}");
